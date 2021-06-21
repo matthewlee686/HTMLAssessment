@@ -41,6 +41,10 @@ ul {
   background-size: 45px 45px;
 }
 
+ul:nth-child(7){
+  background-image: none;
+}
+
 
 #checkbox-grid {
   list-style: none;
